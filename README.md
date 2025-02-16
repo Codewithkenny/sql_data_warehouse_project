@@ -14,6 +14,7 @@ This repository is a comprehensive collection of SQL scripts for data exploratio
 
 🚀 Project Overview
 
+
 This project is designed to demonstrate core data engineering concepts with SQL Server. It covers:
 📌 ETL Processes
 
@@ -37,6 +38,7 @@ This project is designed to demonstrate core data engineering concepts with SQL 
 🛡️ License
 
 This project is licensed under the MIT License. Feel free to use, modify, and share it with proper attribution.
+
 
 🌟 About Me
 
