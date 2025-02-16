@@ -4,13 +4,16 @@ Building a modern data warehouse with SQL Server, including ETL processes,data m
 📊 SQL Data Warehouse Project
 
 
+
 Building a modern data warehouse with SQL Server, including ETL processes, data modeling, and analytics.
+
 
 This repository is a comprehensive collection of SQL scripts for data exploration, analytics, and reporting. Whether you're a data analyst, BI professional, or data engineer, these scripts will help you:
 
 ✅ Explore and analyze data efficiently
 ✅ Generate meaningful insights with SQL queries
 ✅ Implement best practices in database exploration, time-based trends, segmentation, and more
+
 
 🚀 Project Overview
 
@@ -21,24 +24,34 @@ EXtracting datafrom multiple sources
 Transforming and cleaning raw data
 Loading structured data into a warehouse
 
+
+
 📌 Data Modeling
 Designing fact and dimenstion tables
 IMplementing star and snowflake schemas
 Optimizing queries for performance
+
 
 📌 Analytics & Reporting
 Writing SQL queries for KPIs trends and segmentation
 Performing cumulative analytics and aggressions
 Generating actionable insghts from structured data
 
+
+
 🛡️ License
 
 This project is licensed under the MIT License. Feel free to use, modify, and share it with proper attribution.
 
 
+
+
 🌟 About Me
 
 Hey there! 👋 I'm Olapoju Agbomeji Kehinde, a passionate aspiring Data Engineer who loves working with data, automation, and analytics.
+
+
+
 
 📌 My Interests:
 💡 Data Engineering | 📊 Analytics | 🔄 ETL Processes | 🚀 Machine Learning
