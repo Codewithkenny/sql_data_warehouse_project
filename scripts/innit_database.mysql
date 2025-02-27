@@ -3,21 +3,21 @@
 Create Database and Schemas
 =============================================================
 Script Purpose:
-    This script creates a new database named 'datawarehouseanalytics' after checking if it already exists. 
+    This script creates a new database named 'datawarehouse' after checking if it already exists. 
     If the database exists, it is dropped and recreated. Additionally, this script creates a schema called 'gold'.
     
 WARNING:
-    Running this script will drop the entire 'datawarehouseanalytics' database if it exists. 
+    Running this script will drop the entire 'datawarehouse' database if it exists. 
     All data in the database will be permanently deleted. Proceed with caution 
     and ensure you have proper backups before running this script.
 */
 
 -- Drop database if it exists and recreate it
-DROP DATABASE IF EXISTS datawarehouseanalytics;
-CREATE DATABASE datawarehouseanalytics;
+DROP DATABASE IF EXISTS datawarehouse;
+CREATE DATABASE datawarehouse;
 
 -- Use the new database
-USE datawarehouseanalytics;
+USE datawarehouse;
 
 -- Create Schema (In MySQL, schemas are synonymous with databases, so it's not needed)
 -- However, we use a naming convention to distinguish tables
